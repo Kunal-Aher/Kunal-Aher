@@ -38,7 +38,7 @@ I’m open to collaborating on:
 ## 📫 Connect with Me
 - **Email**: [kunalaher0538@gmail.com](mailto:kunalaher0538@gmail.com)
 - **LinkedIn**: [linkedin.com/in/kunal-aher-506162210](https://www.linkedin.com/in/kunal-aher-506162210)
-- **GitHub**: [@kalyankarkunal](https://github.com/kalyankarkunal)
+- **GitHub**: [@kalyankarkunal](https://github.com/kalyankarkunal) and [@kunal Aher](https://github.com/Kunal-Aher)
 
 ---
 

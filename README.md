@@ -23,6 +23,7 @@ I’m a **Business and Data Analyst** with expertise in **data visualization**, 
 ---
 
 ## 🚀 Featured Projects
+- [**Stock_Prediction_and_Recommendation_System**](https://github.com/Kunal-Aher/Stock_Prediction_and_Recommendation_System) - To develop a robust system that predicts stock prices by analyzing historical data and real-time market trends, delivering actionable Buy, Sell, or Hold recommendations to help users make well-informed investment decisions
 - [**Crop Productions Analysis**](https://github.com/kalyankarkunal/Power-BI-report) - Insights to optimize agricultural yield and resource management
 - [**Employee Details Analysis**](https://github.com/kalyankarkunal/SQL-Data-Analysis-Project) - Insights into diversity gaps, salary disparities, and promotion bottlenecks
 - [**Tata Retail Store Analysis**](https://github.com/kalyankarkunal/Power-BI-report) - Visualizations for strategic decision-making simulation for Tata Consultancy Services
